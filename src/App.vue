@@ -14,6 +14,15 @@ export default {
     HelloWorld
   }
 }
+
+import header from ' ./components/header.vue'
+
+export default {
+  name: 'header' ,
+  components: {
+    header
+  }
+}
 </script>
 
 <style>

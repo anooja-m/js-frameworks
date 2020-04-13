@@ -10,7 +10,7 @@
 		</ul>
 	</nav>
 	 <h1 id="example">DEPARTMENT OF COMPUTER APPLICATIONS </h1>
-	 <button type="button" onclick="countClick()">EXPLORE</button>
+	 <button type="button">EXPLORE</button>
 </template>
 
 <script>
