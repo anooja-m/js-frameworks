@@ -7,22 +7,17 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-
+import header from './components/header.vue'
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,header
   }
 }
 
-import header from ' ./components/header.vue'
 
-export default {
-  name: 'header' ,
-  components: {
-    header
-  }
-}
+
+
 </script>
 
 <style>

@@ -1,5 +1,5 @@
 <template>
-  
+  <div>
 <nav>
 
 		<ul>
@@ -11,6 +11,7 @@
 	</nav>
 	 <h1 id="example">DEPARTMENT OF COMPUTER APPLICATIONS </h1>
 	 <button type="button">EXPLORE</button>
+     </div>
 </template>
 
 <script>
